@@ -1,0 +1,9 @@
+Things to learn and do 
+
+1)Kafka tuning and parameters.
+2)Jmeter testing.
+3)Performance testing with Scala & Spark tuning and parameters.
+4)Redis tuning and Testing.
+5)Performance testing with Kafka.
+
+
